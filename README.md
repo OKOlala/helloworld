@@ -1,1 +1,1 @@
-## This example is to push the project from PC to the repositories.
+## This example is to push the project from PC to the repository.
