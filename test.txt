@@ -1,3 +1,7 @@
 Change the file in work zone.
 Change the file in work zone.
+<<<<<<< HEAD
 no branch names "feature1".
+=======
+Creating a new branch "feature1".
+>>>>>>> feature1
